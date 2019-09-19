@@ -102,6 +102,7 @@ int main(void)
   MX_USB_OTG_FS_PCD_Init();
 
   ask; ;e
+  test
   /* USER CODE BEGIN 2 */
 
   /* USER CODE END 2 */
